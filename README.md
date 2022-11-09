@@ -1,2 +1,2 @@
 # fire-smoke-detection
-Baidu Cloud：$\url{}$
+Baidu Cloud：
